@@ -1,0 +1,1 @@
+Considerando que um vendedor de uma loja de sapatos receba 20% de comissão sobre as vendas no mês, e R$5,00 para cada par de sapatos vendidos, o programa irá solicitar o valor das vendas no mês e o número de pares vendidos. Com isso será feito o cálculo total do salário do vendedor.
